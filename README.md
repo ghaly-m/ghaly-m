@@ -1,4 +1,4 @@
-### Hi, I'm Michael 👋
+### Hi, I'm Mike 👋
 
 AI engineer. I build LLM systems for enterprise clients: RAG over company documents, agents, and the infrastructure to run them securely.
 
